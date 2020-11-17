@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\manaf\OneDrive\Desktop\DEV\AngularAPP\src\styles.css */"OmL/");
+module.exports = __webpack_require__(/*! C:\Users\manaf\OneDrive\Desktop\DEV\AngularApp\src\styles.css */"OmL/");
 
 
 /***/ }),
