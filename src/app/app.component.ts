@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { Router, Event, NavigationEnd } from '@angular/router';
+
 
 @Component({
   selector: 'app-root',
@@ -6,5 +8,13 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'AngularAPP';
+  title = 'Abdul Manaf F';
+  active=null;
+  constructor(router: Router) {
+    router.events.forEach((event: Event) => {
+      if (event instanceof NavigationEnd ){
+        this.active = event.url;
+      }
+    });
+  }
 }
