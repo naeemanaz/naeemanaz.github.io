@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\manaf\OneDrive\Desktop\DEV\AngularApp\src\main.ts */"zUnb");
+module.exports = __webpack_require__(/*! C:\Users\manaf\OneDrive\Desktop\DEV\AngularAPP\src\main.ts */"zUnb");
 
 
 /***/ }),
@@ -463,7 +463,7 @@ ContactComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineC
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "strong");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14, "LinkedIn");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](15, " \"https://www.linkedin.com/in/abdul-manaf-f-07b614145/\"");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](15, " https://www.linkedin.com/in/naeema-nazar-307a3a183");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](16, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](17, "br");
